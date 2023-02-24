@@ -1,0 +1,11 @@
+.bar{
+    min-width: 40vw;
+    border: 2px solid blueviolet;
+    padding: 15px 10px;
+    font-size: 1.2rem;
+}
+
+.formGroup{
+    position: relative;
+}
+

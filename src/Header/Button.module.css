@@ -1,0 +1,10 @@
+.button{
+    position: absolute;
+    height: 100%;
+    width: 10%;
+    top: 0;
+    right: 0%;
+    background-color: blueviolet;
+    border: 2px solid black;
+    
+}
